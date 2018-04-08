@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\rekharamesh\ud381\lesson4\TeamAwesome\flink\targe
+ t\classes
+Main-Class: Words
+
